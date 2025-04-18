@@ -722,7 +722,7 @@ pointer-events: auto;
     border 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-x-icon {
+.modal-icon-x {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -732,8 +732,8 @@ pointer-events: auto;
   border: none;
 }
 
-.modal-btn-x:hover .modal-x-icon,
-.modal-btn-x:focus .modal-x-icon {
+.modal-btn-x:hover .modal-icon-x,
+.modal-btn-x:focus .modal-icon-x {
   fill: #ffffff;
 }
 
