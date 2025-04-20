@@ -229,7 +229,7 @@ img {
 .features {
   padding: 120px 0;
 }
-.features-main-title /*{.visually-hidden*/ {
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -547,7 +547,7 @@ img {
   height: 100%;
   background-color: #4d5ae5;
   border-radius: 50%;
-  display: inline-block;
+  /*display: inline-block;*/
 
   display: flex;
   justify-content: center;
